@@ -56,7 +56,7 @@
 | **Brand Consistency** | Uniform entity descriptions across the web · third-party mention alignment · review & directory consistency |
 ---
 
-## Tech Stack
+## <h2 align="center">Tools I Use</h2>
 
 **SEO & Analytics**
 
