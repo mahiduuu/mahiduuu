@@ -28,23 +28,15 @@
 
 **On-Page**
 
-Keyword research · search intent mapping · title & meta optimization · heading structure · content optimization · image alt text · URL structure · internal linking
+Keyword research · search intent mapping · title & meta optimization · heading structure · internal linking
 
 **Technical**
 
-Crawl & index audits · Core Web Vitals · page speed · mobile-first · XML sitemaps · robots.txt · canonical tags · hreflang · JavaScript rendering · log file analysis · site migrations
+Crawl & index audits · Core Web Vitals · page speed · XML sitemaps · robots.txt · canonical tags
 
-**Off-Page**
+**Off-Page & Local**
 
-Link building · outreach & digital PR · backlink audits · toxic link disavow · competitor gap analysis · brand mention reclamation
-
-**Local**
-
-Google Business Profile · local citations · NAP consistency · review strategy · local landing pages · map pack optimization
-
-**Content**
-
-Content audits · topic clusters · pillar pages · content briefs · refresh strategy · keyword cannibalization fixes
+Link building · backlink audits · competitor gap analysis · Google Business Profile · local citations
 
 ---
 
@@ -52,23 +44,15 @@ Content audits · topic clusters · pillar pages · content briefs · refresh st
 
 **Structured Data**
 
-JSON-LD implementation · FAQPage · HowTo · Article · Product · LocalBusiness · Organization · Breadcrumb · Review schema · rich result validation
+JSON-LD implementation · FAQPage · HowTo · Article · Product · LocalBusiness · rich result validation
 
-**Snippet & SERP Features**
+**SERP Features**
 
-Featured snippet targeting · paragraph, list & table snippets · People Also Ask coverage · knowledge panel optimization · sitelinks
+Featured snippet targeting · People Also Ask coverage · knowledge panel optimization
 
 **Content Structure**
 
-Answer-first writing · direct answers in the first 50 words · question-form headings · definition blocks · comparison tables · scannable formatting
-
-**Entities**
-
-Entity markup · knowledge graph alignment · Wikidata & Wikipedia consistency · author & organization E-E-A-T signals
-
-**Voice Search**
-
-Conversational query targeting · long-tail question keywords · local voice intent
+Answer-first writing · question-form headings · definition blocks · comparison tables
 
 ---
 
@@ -76,23 +60,15 @@ Conversational query targeting · long-tail question keywords · local voice int
 
 **AI Crawler Access**
 
-`llms.txt` implementation · GPTBot, PerplexityBot, ClaudeBot & Google-Extended rules · robots.txt strategy for AI agents
+`llms.txt` implementation · GPTBot, PerplexityBot & Google-Extended rules
 
 **Retrieval Optimization**
 
-Content chunking for RAG · semantic clarity · self-contained sections · extractable formatting · clean HTML structure
+Content chunking for RAG · semantic clarity · self-contained sections · extractable formatting
 
 **Citation Tracking**
 
-Monitoring brand mentions in ChatGPT, Perplexity, Gemini & AI Overviews · citation share vs competitors · prompt-based visibility testing
-
-**Citation-Worthy Content**
-
-Original data & statistics · quotable claims · clear definitions · primary-source positioning · timestamped freshness signals
-
-**Brand Consistency**
-
-Uniform entity descriptions across the web · third-party mention alignment · review & directory consistency
+Monitoring brand mentions in ChatGPT, Perplexity & AI Overviews · citation share vs competitors
 
 ---
 
