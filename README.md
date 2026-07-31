@@ -4,7 +4,7 @@
 <h3 align="center">Hey, I'm Mahidur Rahman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&random=false&width=520&lines=Technical+SEO+Specialist;Answer+Engine+Optimization+%7C+AEO;Generative+Engine+Optimization+%7C+GEO;Making+Sites+Visible+to+AI+Search" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&random=false&width=520&lines=+SEO+Specialist;Answer+Engine+Optimization+%7C+AEO;Generative+Engine+Optimization+%7C+GEO;Making+Sites+Visible+to+AI+Search" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ That's the gap I work in. I handle **traditional SEO** so you rank, **AEO** so y
 
 ## What I Do
 
-**Senior SEO Specialist**
+**Technical SEO**
 Crawl and index audits · Core Web Vitals · site architecture · internal linking · sitemap & robots hygiene · page speed
 
 **AEO — Answer Engine Optimization**
