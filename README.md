@@ -62,6 +62,7 @@
 
 ![Search Console](https://img.shields.io/badge/Search%20Console-4285F4.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Bing Webmaster](https://img.shields.io/badge/Bing_Webmaster-0078D7?style=for-the-badge&logo=microsoftbing&logoColor=white)
 ![Tag Manager](https://img.shields.io/badge/Tag%20Manager-246FDB.svg?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4.svg?style=for-the-badge&logo=pagespeedinsights&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
@@ -74,11 +75,15 @@
 ![Schema.org](https://img.shields.io/badge/Schema.org-1F4D6B.svg?style=for-the-badge)
 ![JSON-LD](https://img.shields.io/badge/JSON--LD-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![llms.txt](https://img.shields.io/badge/llms.txt-6E56CF.svg?style=for-the-badge)
+![Rich Results Test](https://img.shields.io/badge/Rich_Results_Test-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D.svg?style=for-the-badge&logo=perplexity&logoColor=white)
 ![AI Overviews](https://img.shields.io/badge/AI%20Overviews-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![AlsoAsked](https://img.shields.io/badge/AlsoAsked-FF6B6B?style=for-the-badge)
+![AnswerThePublic](https://img.shields.io/badge/AnswerThePublic-2E3192?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
 
 **Web & CMS**
 
