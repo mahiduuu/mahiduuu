@@ -24,14 +24,75 @@
 
 ## What I Do
 
-**SEO - Search Engine Optimization**
-Crawl and index audits · Core Web Vitals · site architecture · internal linking · sitemap & robots hygiene · page speed
+### SEO — Search Engine Optimization
 
-**AEO — Answer Engine Optimization**
-Schema / JSON-LD implementation · entity markup · featured snippet targeting · People Also Ask coverage · answer-first content structure
+**On-Page**
 
-**GEO — Generative Engine Optimization**
-`llms.txt` implementation · content chunking for retrieval · AI citation tracking · brand entity consistency · optimizing for ChatGPT, Perplexity & AI Overviews
+Keyword research · search intent mapping · title & meta optimization · heading structure · content optimization · image alt text · URL structure · internal linking
+
+**Technical**
+
+Crawl & index audits · Core Web Vitals · page speed · mobile-first · XML sitemaps · robots.txt · canonical tags · hreflang · JavaScript rendering · log file analysis · site migrations
+
+**Off-Page**
+
+Link building · outreach & digital PR · backlink audits · toxic link disavow · competitor gap analysis · brand mention reclamation
+
+**Local**
+
+Google Business Profile · local citations · NAP consistency · review strategy · local landing pages · map pack optimization
+
+**Content**
+
+Content audits · topic clusters · pillar pages · content briefs · refresh strategy · keyword cannibalization fixes
+
+---
+
+### AEO — Answer Engine Optimization
+
+**Structured Data**
+
+JSON-LD implementation · FAQPage · HowTo · Article · Product · LocalBusiness · Organization · Breadcrumb · Review schema · rich result validation
+
+**Snippet & SERP Features**
+
+Featured snippet targeting · paragraph, list & table snippets · People Also Ask coverage · knowledge panel optimization · sitelinks
+
+**Content Structure**
+
+Answer-first writing · direct answers in the first 50 words · question-form headings · definition blocks · comparison tables · scannable formatting
+
+**Entities**
+
+Entity markup · knowledge graph alignment · Wikidata & Wikipedia consistency · author & organization E-E-A-T signals
+
+**Voice Search**
+
+Conversational query targeting · long-tail question keywords · local voice intent
+
+---
+
+### GEO — Generative Engine Optimization
+
+**AI Crawler Access**
+
+`llms.txt` implementation · GPTBot, PerplexityBot, ClaudeBot & Google-Extended rules · robots.txt strategy for AI agents
+
+**Retrieval Optimization**
+
+Content chunking for RAG · semantic clarity · self-contained sections · extractable formatting · clean HTML structure
+
+**Citation Tracking**
+
+Monitoring brand mentions in ChatGPT, Perplexity, Gemini & AI Overviews · citation share vs competitors · prompt-based visibility testing
+
+**Citation-Worthy Content**
+
+Original data & statistics · quotable claims · clear definitions · primary-source positioning · timestamped freshness signals
+
+**Brand Consistency**
+
+Uniform entity descriptions across the web · third-party mention alignment · review & directory consistency
 
 ---
 
