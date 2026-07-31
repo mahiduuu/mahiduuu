@@ -97,23 +97,7 @@
 ![Rank Math](https://img.shields.io/badge/Rank_Math-EC4C5B?style=for-the-badge)
 
 
----
 
-## Tools I'm Building
-
-**AI Citation Tracker**
-Queries ChatGPT, Perplexity and AI Overviews for a brand or domain, logs whether it gets cited, in what wording, and alongside which competitors. Makes GEO work measurable instead of theoretical.
-
-**llms.txt Generator**
-Builds and validates `llms.txt` files — the emerging standard for telling AI crawlers what a site contains. Ingests a sitemap, prioritises pages, drafts descriptions.
-
-**Schema Builder & Validator**
-Generates valid JSON-LD for Article, FAQPage, HowTo, Product, LocalBusiness and Organization, then validates against schema.org.
-
-**Answer-Readiness Auditor**
-Crawls a site and scores each page on how easily an answer engine can extract a response: direct answer in the first 100 words, question-form headings, definition blocks.
-
----
 
 ## Contribution Graph
 
