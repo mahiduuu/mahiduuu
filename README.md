@@ -26,50 +26,34 @@
 
 ### SEO — Search Engine Optimization
 
-**On-Page**
-
-Keyword research · search intent mapping · title & meta optimization · heading structure · internal linking
-
-**Technical**
-
-Crawl & index audits · Core Web Vitals · page speed · XML sitemaps · robots.txt · canonical tags
-
-**Off-Page & Local**
-
-Link building · backlink audits · competitor gap analysis · Google Business Profile · local citations
-
----
+| Area | What I Handle |
+|---|---|
+| **On-Page** | Keyword research · search intent mapping · title & meta optimization · heading structure · image alt text · URL structure · internal linking |
+| **Technical** | Crawl & index audits · Core Web Vitals · page speed · mobile-first · XML sitemaps · robots.txt · canonicals · hreflang · JS rendering · site migrations |
+| **Off-Page** | Link building · outreach & digital PR · backlink audits · toxic link disavow · competitor gap analysis · brand mention reclamation |
+| **Local** | Google Business Profile · local citations · NAP consistency · review strategy · local landing pages · map pack optimization |
+| **Content** | Content audits · topic clusters · pillar pages · content briefs · refresh strategy · cannibalization fixes |
+| **Reporting** | GSC & GA4 setup · rank tracking · Looker Studio dashboards · traffic-to-conversion attribution |
 
 ### AEO — Answer Engine Optimization
 
-**Structured Data**
-
-JSON-LD implementation · FAQPage · HowTo · Article · Product · LocalBusiness · rich result validation
-
-**SERP Features**
-
-Featured snippet targeting · People Also Ask coverage · knowledge panel optimization
-
-**Content Structure**
-
-Answer-first writing · question-form headings · definition blocks · comparison tables
-
----
+| Area | What I Handle |
+|---|---|
+| **Structured Data** | JSON-LD implementation · FAQPage · HowTo · Article · Product · LocalBusiness · Organization · Breadcrumb · Review · rich result validation |
+| **SERP Features** | Featured snippet targeting · paragraph, list & table snippets · People Also Ask coverage · knowledge panel · sitelinks |
+| **Content Structure** | Answer-first writing · direct answers in the first 50 words · question-form headings · definition blocks · comparison tables |
+| **Entities** | Entity markup · knowledge graph alignment · Wikidata consistency · author & organization E-E-A-T signals |
+| **Voice** | Conversational query targeting · long-tail question keywords · local voice intent |
 
 ### GEO — Generative Engine Optimization
 
-**AI Crawler Access**
-
-`llms.txt` implementation · GPTBot, PerplexityBot & Google-Extended rules
-
-**Retrieval Optimization**
-
-Content chunking for RAG · semantic clarity · self-contained sections · extractable formatting
-
-**Citation Tracking**
-
-Monitoring brand mentions in ChatGPT, Perplexity & AI Overviews · citation share vs competitors
-
+| Area | What I Handle |
+|---|---|
+| **AI Crawler Access** | `llms.txt` implementation · GPTBot, PerplexityBot, ClaudeBot & Google-Extended rules · robots.txt strategy for AI agents |
+| **Retrieval** | Content chunking for RAG · semantic clarity · self-contained sections · extractable formatting · clean HTML structure |
+| **Citation Tracking** | Brand mentions in ChatGPT, Perplexity, Gemini & AI Overviews · citation share vs competitors · prompt-based visibility testing |
+| **Citation-Worthy Content** | Original data & statistics · quotable claims · clear definitions · primary-source positioning · freshness signals |
+| **Brand Consistency** | Uniform entity descriptions across the web · third-party mention alignment · review & directory consistency |
 ---
 
 ## Tech Stack
