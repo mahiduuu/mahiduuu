@@ -1,4 +1,6 @@
-<img align="right" width="380" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRzZWIzbGY4a2s5c2cycW1kanJqanpmdmRydTJrYmpzc2l4MWJ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" />
+<p align="center">
+  <img width="260" src="https://i.giphy.com/l46Cy1rHbQ92uuLXa.gif" />
+</p>
 
 <h3 align="center">Hey, I'm Mahidur Rahman</h3>
 
