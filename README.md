@@ -17,7 +17,7 @@ That's the gap I work in. I handle **traditional SEO** so you rank, **AEO** so y
 
 ## What I Do
 
-**Technical SEO**
+**SEO - Search Engine Optimization**
 Crawl and index audits · Core Web Vitals · site architecture · internal linking · sitemap & robots hygiene · page speed
 
 **AEO — Answer Engine Optimization**
