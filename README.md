@@ -93,10 +93,8 @@
 ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
-![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
+![Yoast](https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge&logo=yoast&logoColor=white)
+![Rank Math](https://img.shields.io/badge/Rank_Math-EC4C5B?style=for-the-badge)
 
 
 ---
