@@ -33,7 +33,7 @@
 | **Off-Page** | Link building · outreach & digital PR · backlink audits · toxic link disavow · competitor gap analysis · brand mention reclamation |
 | **Local** | Google Business Profile · local citations · NAP consistency · review strategy · local landing pages · map pack optimization |
 | **Content** | Content audits · topic clusters · pillar pages · content briefs · refresh strategy · cannibalization fixes |
-| **Reporting** | GSC & GA4 setup · rank tracking · keyword ranking position · Traffic Tracking · competitor benchmarking · monthly performance reports · traffic-to-conversion attribution |
+| **Reporting** | GSC & GA4 setup · Rank & SERP position tracking · Traffic Tracking · competitor benchmarking · monthly performance reports · traffic-to-conversion attribution |
 
 ### AEO — Answer Engine Optimization
 
