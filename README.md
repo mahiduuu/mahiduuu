@@ -117,6 +117,5 @@ xychart-beta
 
 ---
 
-Open to technical SEO, AEO and GEO work.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
