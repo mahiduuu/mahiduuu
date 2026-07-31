@@ -82,8 +82,15 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
+
 
 ---
 
