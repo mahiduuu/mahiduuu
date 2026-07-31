@@ -106,6 +106,28 @@ xychart-beta
     y-axis "Clicks" 0 --> 1200
     line [40, 90, 180, 420, 780, 1100]
 ```
+### Islamic Clothing E-commerce · Canada
+
+| Metric | Result |
+|---|---|
+| **Organic search** | 8.45K clicks from 283K impressions in 12 months |
+| **Keyword growth** | 1.2K ranking keywords, up 46% |
+| **Traffic** | Users +384% · Pageviews +672% · Purchases +705% |
+| **Revenue from organic search** | CA$23,190 across 228 orders at 2.17% conversion |
+| **Authority** | 84 referring domains · 22K backlinks |
+
+**Page-one rankings** — #1, #2 and #4 positions on high-intent commercial buying keywords
+
+**AI visibility** — cited by **ChatGPT, Gemini, Claude, Grok and Perplexity** for a top commercial query in the niche. 59 brand mentions across 378 cited pages.
+
+### Local Business · Google Business Profile
+
+| Metric | Result (6 months) |
+|---|---|
+| **Profile interactions** | 1,347 |
+| **Phone calls** | 221 |
+| **Direction requests** | 531 |
+| **Website clicks** | 595 |
 
 ## Contribution Graph
 
