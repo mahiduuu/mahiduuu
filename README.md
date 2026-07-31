@@ -10,9 +10,16 @@
 
 ---
 
-Search changed. People don't only type into Google anymore — they ask ChatGPT, Perplexity, and AI Overviews, and those systems answer without sending a click. Ranking #1 means nothing if the answer engine never cites you.
-That's the gap I work in. I handle **traditional SEO** so you rank, **AEO** so you own the answer box, and **GEO** so AI systems quote you as the source.
+<p align="center">
+  Search changed. People don't just Google anymore — they ask ChatGPT, Perplexity and AI Overviews.<br/>
+  Ranking #1 means nothing if the answer engine never cites you.
+</p>
 
+<p align="center">
+  <b>SEO</b> so you rank · <b>AEO</b> so you own the answer box · <b>GEO</b> so AI quotes you as the source<br/>
+  <br/>
+  Turning search visibility into <b>traffic, leads and conversions</b>.
+</p>
 ---
 
 ## What I Do
