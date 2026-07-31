@@ -50,13 +50,6 @@ Schema / JSON-LD implementation · entity markup · featured snippet targeting �
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D.svg?style=for-the-badge&logo=perplexity&logoColor=white)
 ![AI Overviews](https://img.shields.io/badge/AI%20Overviews-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
-**Languages & Automation**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-
 **Web & CMS**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
