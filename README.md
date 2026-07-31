@@ -24,7 +24,7 @@
 
 ## What I Do
 
-### SEO — Search Engine Optimization
+### <h3 align="center">SEO — Search Engine Optimization</h3>
 
 | Area | What I Handle |
 |---|---|
@@ -35,7 +35,7 @@
 | **Content** | Content audits · topic clusters · pillar pages · content briefs · refresh strategy · cannibalization fixes |
 | **Reporting** | GSC & GA4 setup · Rank & SERP position tracking · Traffic Tracking · competitor benchmarking · monthly performance reports · traffic-to-conversion attribution |
 
-### AEO — Answer Engine Optimization
+### <h3 align="center">AEO — Answer Engine Optimization</h3>
 
 | Area | What I Handle |
 |---|---|
@@ -45,7 +45,7 @@
 | **Entities** | Entity markup · knowledge graph alignment · Wikidata consistency · author & organization E-E-A-T signals |
 | **Voice** | Conversational query targeting · long-tail question keywords · local voice intent |
 
-### GEO — Generative Engine Optimization
+### <h3 align="center">GEO — Generative Engine Optimization</h3>
 
 | Area | What I Handle |
 |---|---|
