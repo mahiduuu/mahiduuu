@@ -58,7 +58,7 @@
 
 ## <h2 align="center">Tools I Use</h2>
 
-**SEO & Analytics**
+<p align="center"><b>SEO & Analytics</b></p>
 
 ![Search Console](https://img.shields.io/badge/Search%20Console-4285F4.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -70,7 +70,7 @@
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF6B00.svg?style=for-the-badge)
 ![Semrush](https://img.shields.io/badge/Semrush-FF642D.svg?style=for-the-badge&logo=semrush&logoColor=white)
 
-**AEO / GEO**
+<p align="center"><b>AEO / GEO</b></p>
 
 ![Schema.org](https://img.shields.io/badge/Schema.org-1F4D6B.svg?style=for-the-badge)
 ![JSON-LD](https://img.shields.io/badge/JSON--LD-000000.svg?style=for-the-badge&logo=json&logoColor=white)
@@ -85,7 +85,7 @@
 ![AnswerThePublic](https://img.shields.io/badge/AnswerThePublic-2E3192?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
 
-**Web & CMS**
+<p align="center"><b>Web & CMS</b></p>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
