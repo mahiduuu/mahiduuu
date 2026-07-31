@@ -98,6 +98,7 @@
 
 
 <h2 align="center">Results</h2>
+
 ```mermaid
 xychart-beta
     title "Organic Clicks — 12 Months"
