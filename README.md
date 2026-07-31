@@ -1,4 +1,3 @@
-# mahiduuu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 
 <h3 align="center">Hey, I'm Mahidur Rahman</h3>
