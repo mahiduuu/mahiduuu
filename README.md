@@ -7,9 +7,9 @@
 </p>
 
 ---
+<img align="right" width="380" src="https://raw.githubusercontent.com/mahiduuu/mahiduuu/main/seo.gif" />
 
 Search changed. People don't only type into Google anymore — they ask ChatGPT, Perplexity, and AI Overviews, and those systems answer without sending a click. Ranking #1 means nothing if the answer engine never cites you.
-
 That's the gap I work in. I handle **traditional SEO** so you rank, **AEO** so you own the answer box, and **GEO** so AI systems quote you as the source.
 
 ---
