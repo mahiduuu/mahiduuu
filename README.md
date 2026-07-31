@@ -107,26 +107,13 @@ xychart-beta
     line [40, 90, 180, 420, 780, 1100]
 ```
 
-## Contribution Graph
+<h2 align="center">Quote I Work By</h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahiduuu&radius=16&theme=react&area=true&hide_title=false)](https://github.com/mahiduuu)
+<p align="center">
+  <i>"Google only loves you when everyone else loves you first."</i><br/>
+  — Wendy Piersall
+</p>
 
-## Stats & Streak
-
-[![stats](https://github-readme-stats.vercel.app/api?username=mahiduuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false)](https://github.com/mahiduuu)
-[![streak](https://streak-stats.demolab.com?user=mahiduuu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://github.com/mahiduuu)
-
-## Top Languages
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahiduuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)](https://github.com/mahiduuu)
-
-## Profile Views
-
-[![views](https://profile-counter.glitch.me/mahiduuu/count.svg)](https://github.com/mahiduuu)
-
-## Random Dev Quote
-
-[![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/mahiduuu)
 
 ---
 
