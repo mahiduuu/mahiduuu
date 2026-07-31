@@ -97,7 +97,14 @@
 ![Rank Math](https://img.shields.io/badge/Rank_Math-EC4C5B?style=for-the-badge)
 
 
-
+<h2 align="center">Results</h2>
+```mermaid
+xychart-beta
+    title "Organic Clicks — 12 Months"
+    x-axis [Aug, Oct, Dec, Feb, Apr, Jun]
+    y-axis "Clicks" 0 --> 1200
+    line [40, 90, 180, 420, 780, 1100]
+```
 
 ## Contribution Graph
 
