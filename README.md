@@ -97,7 +97,7 @@
 ![Rank Math](https://img.shields.io/badge/Rank_Math-EC4C5B?style=for-the-badge)
 
 
-<h2 align="center">Results</h2>
+<h2 align="center">Results Will look like this</h2>
 
 ```mermaid
 xychart-beta
